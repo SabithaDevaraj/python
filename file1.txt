@@ -1,4 +1,2 @@
 Adding content to first file - modified. 
 Modifying the content in github.
-
-To revert
